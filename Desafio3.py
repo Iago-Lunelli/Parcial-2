@@ -35,3 +35,4 @@ def main():
 # e não quando importado como módulo
 if __name__ == "__main__":
     main()
+    # Código que eu já tinha salvo no meu VsCode do Computador de casa, fiz apenas aluma alterações para apenas 5 nomes.
