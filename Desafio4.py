@@ -58,3 +58,4 @@ elif operacao == "/":
 else:
     # Exibe mensagem de erro
     print("Operação inválida.")
+#Código também já feito no meu VsCode.
