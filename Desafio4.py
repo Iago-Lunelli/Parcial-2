@@ -1,6 +1,4 @@
-# Programa: Calculadora simples completa
-# Objetivo: Realizar operações básicas (+, -, *, /)
-
+# Realiza operações básicas (+, -, *, /)
 # Solicita ao usuário o primeiro número e converte para float
 num1 = float(input("Digite o primeiro número: "))
 
